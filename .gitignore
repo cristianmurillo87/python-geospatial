@@ -1,0 +1,15 @@
+*.nc
+*/*.nc
+*.tiff
+*/*.tiff
+*.grb2
+*.HDF5
+*.hdf5
+*/Results/*
+*/NLS/*
+*/.ipynb_checkpoints/*
+.vscode
+*/.vscode/*
+*/images/*
+.DS_Store
+*/.DS_Store
